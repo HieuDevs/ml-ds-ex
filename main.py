@@ -1,5 +1,5 @@
-import Ex1.run as Ex1Runner
+import Ex2.ex2 as Ex2Runner
 
 
 if __name__ == "__main__":
-    Ex1Runner.run()
+    Ex2Runner.resolve()
